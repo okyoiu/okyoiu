@@ -1,4 +1,4 @@
-## Hi there 👋
+## Systems Programmer | Aspiring Software Engineer
 
 Computer Science @ Texas A&M University and I am a Systems-minded developer navigating the stack.
 
