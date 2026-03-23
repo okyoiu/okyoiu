@@ -22,6 +22,7 @@ Currently, I am actively seeking Software Engineering Internships where I can ap
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Auth0](https://img.shields.io/badge/auth0-EB5424.svg?style=for-the-badge&logo=auth0&logoColor=white)
+
 **Tools:**
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
