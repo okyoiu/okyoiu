@@ -8,7 +8,7 @@ Currently, I am actively seeking Software Engineering Internships where I can ap
 
 ---
 
-### 🛠️ Core Focus & Technologies
+### Core Focus & Technologies
 
 **Languages:**
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -28,13 +28,14 @@ Currently, I am actively seeking Software Engineering Internships where I can ap
 
 ---
 
-### 🚀 What I'm Working On
+### What I'm Working On
 
-* **Front-End Fundamentals:** Building a 25-project vanilla JavaScript pipeline to master the DOM, state management, and algorithmic visualizers before fully transitioning into complex React architectures.
+* **Custom-Interpreter:** Building a hand-crafted, statically-typed scripting language interpreter built entirely from scratch in modern C++ (C++20). 
+
 
 ---
 
-### 📫 Let's Connect
+### Let's Connect
 
-* **LinkedIn:** [(https://www.linkedin.com/in/csanc18/?skipRedirect=true)]
-* **Email:** [cesar.sanc219@gmail.com]
+* **LinkedIn:** https://www.linkedin.com/in/csanc18/?skipRedirect=true
+* **Email:** cesar.sanc219@gmail.com
