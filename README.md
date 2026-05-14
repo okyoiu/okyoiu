@@ -37,5 +37,5 @@ Currently, I am actively seeking Software Engineering Internships where I can ap
 
 ### Let's Connect
 
-* **LinkedIn:** https://www.linkedin.com/in/csanc18/?skipRedirect=true
+* **LinkedIn:** https://www.linkedin.com/in/csanc18/
 * **Email:** cesar.sanc219@gmail.com
