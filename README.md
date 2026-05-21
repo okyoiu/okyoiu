@@ -30,8 +30,7 @@ Currently, I am actively seeking Software Engineering Internships where I can ap
 
 ### What I'm Working On
 
-* **Custom-Interpreter:** Building a hand-crafted, statically-typed scripting language interpreter built entirely from scratch in modern C++ (C++20). 
-
+* **Mobile-App Pomodoro:** Building a solo full-stack Pomodoro Timer that is being developed with Developers and Programmers alike for being able to stay focused.
 
 ---
 
