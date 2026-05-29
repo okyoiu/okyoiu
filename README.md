@@ -30,6 +30,7 @@ Currently, I am actively seeking Software Engineering Internships where I can ap
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Gemini](https://img.shields.io/badge/gemini-%238E75B2.svg?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Claude](https://img.shields.io/badge/claude-%23D97757.svg?style=for-the-badge&logo=claude&logoColor=white)
+
 ---
 
 ### What I'm Working On
