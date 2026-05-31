@@ -35,7 +35,9 @@ Currently, I am actively seeking Software Engineering Internships where I can ap
 
 ### What I'm Working On
 
-* **Mobile-App Pomodoro:** Building a solo full-stack Pomodoro Timer that is being developed with Developers and Programmers alike for being able to stay focused.
+* **Mobile-App Pomodoro:** Building a solo full-stack Pomodoro Timer that is being developed with Developers and Programmers alike for being able to stay focused (_Ongoing_)
+* **Meridian:** Developing an interactive web mapping application with a React frontend to parse real-world OpenStreetMap data and visualize complex graph theory algorithms (_Ongoing_)
+
 
 ---
 
