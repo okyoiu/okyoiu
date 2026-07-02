@@ -37,7 +37,6 @@ Currently, I am actively seeking Software Engineering Internships where I can ap
 
 ### What I'm Working On
 
-* **Mobile-App Pomodoro:** Building a solo full-stack Pomodoro Timer that is being developed with Developers and Programmers alike for being able to stay focused (_Ongoing_)
 * **Factorio-Based game:** Building a solo Data-Oriented Design (DOD) system in where I learn the principles of gaming design as well as C++ memory management fundamentally. (_Ongoing_)
 
 ---
