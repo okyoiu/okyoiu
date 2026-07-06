@@ -35,12 +35,6 @@ Currently, I am actively seeking Software Engineering Internships where I can ap
 
 ---
 
-### What I'm Working On
-
-* **Factorio-Based game:** Building a solo Data-Oriented Design (DOD) system in where I learn the principles of gaming design as well as C++ memory management fundamentally. (_Ongoing_)
-
----
-
 ### Let's Connect!
 
 * **LinkedIn:** https://www.linkedin.com/in/csanc18/
